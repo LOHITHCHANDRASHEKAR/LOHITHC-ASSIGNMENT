@@ -31,7 +31,7 @@ Alexa: 9999
 And the difference between the chosen goodie with highest price and the lowest price is 199
 
 
-Number of employees: 2
+Number of employees: 4
 
 Cult Pass: 2799
 Macbook Pro: 229900
@@ -41,3 +41,10 @@ Alexa: 9999
 And the difference between the chosen goodie with highest price and the lowest price is 227101
 
 
+
+Number of employees: 2
+
+MI Band: 999
+Cult Pass: 2799
+
+And the difference between the chosen goodie with highest price and the lowest price is 1800
