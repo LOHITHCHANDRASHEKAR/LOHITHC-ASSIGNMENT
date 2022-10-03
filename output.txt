@@ -33,6 +33,7 @@ And the difference between the chosen goodie with highest price and the lowest p
 
 Number of employees: 4
 
+Here the goodies that are selected for distribution are:
 Cult Pass: 2799
 Macbook Pro: 229900
 Digital Camera: 11101
@@ -44,6 +45,7 @@ And the difference between the chosen goodie with highest price and the lowest p
 
 Number of employees: 2
 
+Here the goodies that are selected for distribution are:
 MI Band: 999
 Cult Pass: 2799
 
